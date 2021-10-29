@@ -1,6 +1,6 @@
 # Youtube-Comment-Scraper
 
-Scrapes comments from youtube given a URL and exports it as a csv file, and allow translation of comments if needed. 
+Scrapes comments from youtube given a URL and exports it as a csv file, and allow translation of comments if needed. Requires [ChromeDriver.](https://chromedriver.chromium.org/)
 
 ------
 ### Usage
